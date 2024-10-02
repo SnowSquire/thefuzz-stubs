@@ -1,0 +1,7 @@
+[project]
+name = "thefuzz-stubs"
+version = "0.22.1"
+description = "stubs for thefuzz generated from mypy stubgen"
+requires-python = ">=3.8"
+classifiers = ["Typing :: Typed", "Typing :: Stubs Only"]
+dependencies = ["thefuzz>=0.22.1"]
